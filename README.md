@@ -42,7 +42,7 @@ git config --list
 
 Vá no prompt de comando do seu pc e digite 
 ```bash
-git clone https://github.com/Erick-143/Projeto-Esp32-sensores-umidade-e-temperatura.git
+git clone https://github.com/gabrielvazferreira50-glitch/Arquivos-Projeto.git
 ```
 A ideia é baixar as pastas do repositório remoto para o seu computador.
 
